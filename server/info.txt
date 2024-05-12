@@ -1,0 +1,14 @@
+# Cli
+
+npm init   => initialize npm project
+mkdir      => create new Directory
+
+====================================================
+# node & express (web framework for node.js)
+
+nodemon   => node monitor watch entry point index.ts.
+add npm script => "start": "nodemon index.ts"   => npm start 
+
+===================
+Middleware
+Request handler that work in specific times
